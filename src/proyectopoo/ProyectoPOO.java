@@ -175,6 +175,7 @@ public class ProyectoPOO {
             System.out.println("## 3. DNI                           ##");
             System.out.println("## 4. ID_CLIENTE                    ##");
             System.out.println("## 5. SALIR                         ##");
+            System.out.println("efcfwrevw");
             System.out.println("######################################");
             System.out.print("Seleccione la opción de busqueda: ");
             opc=lector.nextInt();
@@ -462,4 +463,5 @@ public class ProyectoPOO {
         }while(opc!=4);
         lector.close();
     }
+
 }
